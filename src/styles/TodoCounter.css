@@ -1,0 +1,22 @@
+.TodoHeader {
+    color: rgb(204, 189, 245);
+    display: grid;
+    grid-template-columns: 50% auto;
+}
+
+.firstDiv {
+    padding: 30px 48px;
+    /* padding-left: 48px; */
+}
+
+.TodoCounter {
+    font-size: 30px;
+    /* text-align: center; */
+    margin: 0;
+    /* padding: 48px; */
+}
+
+.TodoTitle {
+    font-size: 3rem;
+    text-align: end;
+}
